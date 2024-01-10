@@ -1,0 +1,14 @@
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppTwo.exe
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppTwo.deps.json
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppTwo.runtimeconfig.json
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppTwo.dll
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppTwo.pdb
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.AssemblyInfoInputs.cache
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.AssemblyInfo.cs
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.dll
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\refint\ConAppTwo.dll
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.pdb
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.genruntimeconfig.cache
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ref\ConAppTwo.dll
